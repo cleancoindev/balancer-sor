@@ -62,7 +62,7 @@
         "@ethersproject/constants": "^5.4.0",
         "@ethersproject/contracts": "^5.0.5",
         "@ethersproject/providers": "5.0.12",
-        "@georgeroman/balancer-v2-pools": "^0.0.5",
+        "@georgeroman/balancer-v2-pools": "^0.0.14",
         "isomorphic-fetch": "^2.2.1"
     }
 }
